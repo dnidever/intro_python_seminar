@@ -1,0 +1,56 @@
+Introduction to Python
+
+
+-basics of python
+-object oriented programming
+-matplotlit plots (Pol)
+-MCMC (Josh)
+-How to use GitHub
+-Creating software package and releasing it via PyPi
+-documenting with ReadTheDocs
+-package managers conda/pypi
+-how to install a new package, dlnpyutils, emcee, etc.
+-virtual environments?
+-maybe add sql stuff, sqlalchemy?
+
+
+Use lots of Nathan's jupyter notebooks
+https://github.com/deleenm/AST310ClassPackage
+
+-Lab 1: Python Basics Variables
+-Lab 2: Python Basics Go with the Flow
+-Lab 3: Python Basics Info to and from the Outside   has some class stuff, maybe make that a separate lab
+-Lab 4: Intro to Numpy
+-Lab 5: Intro to Astropy Units
+-Lab 6: Working with Data Files      numpy and astropy tables
+-Lab 7: Intro to Plotting            add hist2d/binned_statistic_2d
+-Lab 8: Fitting Data                 polyfit/curve_fit,  need an mcmc lab
+-Lab 9: Intro to Astropy Coordinates
+-Lab 10: Intro to Astropy Time
+-Lab 11: Working with FITS          Add HDF5 stuff?
+-Lab 12: Image Calibrations         useful for anyone working with any types of images
+-Lab 13: Photometry                 Skip?
+-Lab 14: Multi-Object Photometry    Skip?
+-Lab 15: Periodic Data              useful, covers periodograms
+-Lab 16: Differential Photometry and Lightcurves  Skip?
+-Lab 17: Python Beyond Notebooks     python scripts/modules
+
+Weeks
+-Aug 22: half-week, probably won't meet
+-Aug 29:
+-Sept 5:
+-Sept 12:
+-Sept 19:
+-Sept 26:
+-Oct 3:
+-Oct 10:
+-Oct 17:
+-Oct 24:
+-Oct 31:
+-Nov 7:
+-Nov 14:
+-Nov 21:  Fall break
+-Nov 28:
+-Dec 5:
+-Dec 12-15 Finals week
+we have 14 weeks
