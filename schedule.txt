@@ -11,8 +11,8 @@ https://github.com/deleenm/AST310ClassPackage
 -Sept 30: Intro to Astropy Units
 -Oct 7: Working with Data Files
 -Oct 14: Plotting in Python
--Oct 21: Intro to Astropy Coordinates
--Oct 28: Intro to Astropy Time
+-Oct 21: Fitting data
+-Oct 28: Intro to Astropy Coordinates and Time
 -Nov 4: Working with FITS
 -Nov 11: VETERANS DAY - NO CLASS
 -Nov 18: Image calibrations
