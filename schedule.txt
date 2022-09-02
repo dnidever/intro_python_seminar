@@ -12,8 +12,8 @@ https://github.com/deleenm/AST310ClassPackage
 -Oct 7: Working with Data Files
 -Oct 14: Plotting in Python
 -Oct 21: Fitting data
--Oct 28: Intro to Astropy Coordinates and Time
--Nov 4: Working with FITS
+-Oct 28: Working with FITS
+-Nov 4: Intro to Astropy Coordinates and Time - katie f.
 -Nov 11: VETERANS DAY - NO CLASS
 -Nov 18: Periodic Data
 -Nov 25: FALL BREAK - NO CLASS
