@@ -9,8 +9,8 @@ https://github.com/deleenm/AST310ClassPackage
 -Sept 16: Python Basics Info to and from the Outside
 -Sept 23: Intro to Numpy
 -Sept 30: Intro to Astropy Units
--Oct 7: Working with Data Files
--Oct 14: Plotting in Python
+-Oct 7: Working with Data Files - Pol M.
+-Oct 14: Plotting in Python - Pol M.
 -Oct 21: Fitting data
 -Oct 28: Working with FITS
 -Nov 4: Intro to Astropy Coordinates and Time - katie f.
